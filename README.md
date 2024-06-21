@@ -16,8 +16,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-- PHP (version X.X.X)
-- Composer (version X.X.X)
+- PHP (version 8.2)
+- Composer (version 2.7.7)
 - MySQL or another relational database
 
 ### Installation
